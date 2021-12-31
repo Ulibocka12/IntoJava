@@ -3,13 +3,11 @@
 
 Происходит округление десятичных чисел.
 
-## Локация дефекта
+# Локация дефекта
 
 
 
-### Шаги воспроизведения
-
-
+# Шаги воспроизведения
 
 1. Открыть [код программы](https://github.com/Ulibochka12/code/issues/new) в IDEA
 2. Запустить программу
@@ -19,12 +17,14 @@
 
 ***Фактический результат:*** Вывод сообщения с количеством каждого индгридиента с округлением.
 
-#### Скриншот
+# Скриншот
 
-![alt text](https://github.com/Ulibocka12/IntoJava/blob/main/screenshot_1.png "Описание будет тут")
+![alt text](https://raw.githubusercontent.com/Ulibocka12/IntoJava/main/screenshot_1.png "Описание будет тут")
 
-##### Окружение
+# Окружение
 
 Операционная система: Windows 10 Pro 21H1
+
 IDE: IntelliJ IDEA 2020.2 (Community Edition)
+
 Java: OpenJDK 11
