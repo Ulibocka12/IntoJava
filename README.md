@@ -5,7 +5,7 @@
 
 # Локация дефекта
 
-
+<a href="https://github.com/Ulibocka12/IntoJava/blob/3664084b2bca4b828d62a5b642d30f71139debb1/main.java#L11-L15"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IntoJava / main.java</font></font></a>
 
 # Шаги воспроизведения
 
