@@ -9,7 +9,7 @@
 
 # Шаги воспроизведения
 
-1. Открыть [код программы](https://github.com/Ulibochka12/code/issues/new) в IDEA
+1. Открыть [код программы](https://github.com/Ulibochka12/https://github.com/Ulibocka12/IntoJava/blob/main/code/issues/new) в IDEA
 2. Запустить программу
 3. Посмотреть на вывод в консоли
 
