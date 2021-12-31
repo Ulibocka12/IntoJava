@@ -4,7 +4,8 @@
 
 # Локация дефекта
 
-<a href="https://github.com/Ulibocka12/IntoJava/blob/3664084b2bca4b828d62a5b642d30f71139debb1/main.java#L11-L15"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IntoJava / main.java</font></font></a>
+https://github.com/Ulibocka12/IntoJava/blob/ed52b1a5578e266d23950c04f366b6306b33abf7/code#L11-L15
+
 
 # Шаги воспроизведения
 
